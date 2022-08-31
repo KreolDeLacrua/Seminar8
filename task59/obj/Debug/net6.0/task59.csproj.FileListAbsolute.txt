@@ -1,0 +1,15 @@
+C:\Users\DeLacrua\Desktop\GB\Seminar8\task59\obj\Debug\net6.0\task59.csproj.AssemblyReference.cache
+C:\Users\DeLacrua\Desktop\GB\Seminar8\task59\obj\Debug\net6.0\task59.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DeLacrua\Desktop\GB\Seminar8\task59\obj\Debug\net6.0\task59.AssemblyInfoInputs.cache
+C:\Users\DeLacrua\Desktop\GB\Seminar8\task59\obj\Debug\net6.0\task59.AssemblyInfo.cs
+C:\Users\DeLacrua\Desktop\GB\Seminar8\task59\obj\Debug\net6.0\task59.csproj.CoreCompileInputs.cache
+C:\Users\DeLacrua\Desktop\GB\Seminar8\task59\bin\Debug\net6.0\task59.exe
+C:\Users\DeLacrua\Desktop\GB\Seminar8\task59\bin\Debug\net6.0\task59.deps.json
+C:\Users\DeLacrua\Desktop\GB\Seminar8\task59\bin\Debug\net6.0\task59.runtimeconfig.json
+C:\Users\DeLacrua\Desktop\GB\Seminar8\task59\bin\Debug\net6.0\task59.dll
+C:\Users\DeLacrua\Desktop\GB\Seminar8\task59\bin\Debug\net6.0\task59.pdb
+C:\Users\DeLacrua\Desktop\GB\Seminar8\task59\obj\Debug\net6.0\task59.dll
+C:\Users\DeLacrua\Desktop\GB\Seminar8\task59\obj\Debug\net6.0\refint\task59.dll
+C:\Users\DeLacrua\Desktop\GB\Seminar8\task59\obj\Debug\net6.0\task59.pdb
+C:\Users\DeLacrua\Desktop\GB\Seminar8\task59\obj\Debug\net6.0\task59.genruntimeconfig.cache
+C:\Users\DeLacrua\Desktop\GB\Seminar8\task59\obj\Debug\net6.0\ref\task59.dll
